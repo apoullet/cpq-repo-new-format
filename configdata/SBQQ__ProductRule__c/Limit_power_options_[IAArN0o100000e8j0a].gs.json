@@ -1,0 +1,22 @@
+{
+  "Object": "SBQQ__ProductRule__c",
+  "Fields": {
+    "GearsetDisplayName": "Limit power options",
+    "GearsetExternalId__c": "IAArN0o100000e8j0a",
+    "Name": "Limit power options",
+    "SBQQ__Active__c": "false",
+    "SBQQ__AdvancedCondition__c": "",
+    "SBQQ__ConditionsMet__c": "All",
+    "SBQQ__ErrorMessage__c": "",
+    "SBQQ__EvaluationEvent__c": "Load",
+    "SBQQ__EvaluationOrder__c": "",
+    "SBQQ__LookupMessageField__c": "",
+    "SBQQ__LookupObject__c": "OutletLocale__c",
+    "SBQQ__LookupProductField__c": "OLProduct__c",
+    "SBQQ__LookupRequiredField__c": "OLRequired__c",
+    "SBQQ__LookupTypeField__c": "OLType__c",
+    "SBQQ__Scope__c": "Product",
+    "SBQQ__Type__c": "Selection"
+  },
+  "References": []
+}
