@@ -1,9 +1,9 @@
 {
   "Object": "SBQQ__ProductRule__c",
   "Fields": {
-    "GearsetDisplayName": "Disable and remove electrical installation",
+    "GearsetDisplayName": "Disable and remove electrical installation - Renamed",
     "GearsetExternalId__c": "YAAXN0o100000e8j0a",
-    "Name": "Disable and remove electrical installation",
+    "Name": "Disable and remove electrical installation - Renamed",
     "SBQQ__Active__c": "true",
     "SBQQ__AdvancedCondition__c": "",
     "SBQQ__ConditionsMet__c": "All",
