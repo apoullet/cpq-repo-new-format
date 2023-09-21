@@ -1,9 +1,9 @@
 {
   "Object": "SBQQ__ProductRule__c",
   "Fields": {
-    "GearsetDisplayName": "Test rule",
+    "GearsetDisplayName": "Test rule - Renamed",
     "GearsetExternalId__c": "IAA6T0o100000e8j0a",
-    "Name": "Test rule",
+    "Name": "Test rule - Renamed",
     "SBQQ__Active__c": "false",
     "SBQQ__AdvancedCondition__c": "",
     "SBQQ__ConditionsMet__c": "All",
