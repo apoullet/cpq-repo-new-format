@@ -1,9 +1,9 @@
 {
   "Object": "SBQQ__ProductRule__c",
   "Fields": {
-    "GearsetDisplayName": "Hide video editing educational license",
+    "GearsetDisplayName": "Hide video editing educational license - Renamed",
     "GearsetExternalId__c": "IAAhN0o100000e8j0a",
-    "Name": "Hide video editing educational license",
+    "Name": "Hide video editing educational license - Renamed",
     "SBQQ__Active__c": "true",
     "SBQQ__AdvancedCondition__c": "",
     "SBQQ__ConditionsMet__c": "All",
