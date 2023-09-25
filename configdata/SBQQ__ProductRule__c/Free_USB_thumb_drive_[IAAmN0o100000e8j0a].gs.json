@@ -1,9 +1,9 @@
 {
   "Object": "SBQQ__ProductRule__c",
   "Fields": {
-    "GearsetDisplayName": "Free USB thumb drive",
+    "GearsetDisplayName": "Free USB thumb drive - Renamed",
     "GearsetExternalId__c": "IAAmN0o100000e8j0a",
-    "Name": "Free USB thumb drive",
+    "Name": "Free USB thumb drive - Renamed",
     "SBQQ__Active__c": "true",
     "SBQQ__AdvancedCondition__c": "",
     "SBQQ__ConditionsMet__c": "Any",
