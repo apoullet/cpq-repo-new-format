@@ -1,9 +1,9 @@
 {
   "Object": "SBQQ__ProductRule__c",
   "Fields": {
-    "GearsetDisplayName": "No cloud storage for healthcare industry",
+    "GearsetDisplayName": "No cloud storage for healthcare industry - Renamed",
     "GearsetExternalId__c": "IAA3N0o100000e8j0a",
-    "Name": "No cloud storage for healthcare industry",
+    "Name": "No cloud storage for healthcare industry - Renamed",
     "SBQQ__Active__c": "true",
     "SBQQ__AdvancedCondition__c": "10 AND (20 OR 30)",
     "SBQQ__ConditionsMet__c": "All",
