@@ -1,0 +1,19 @@
+{
+  "Object": "IndustryPrice__c",
+  "Fields": {
+    "GearsetDisplayName": "KAEcUpM400000e8Q1a",
+    "GearsetExternalId__c": "KAEcUpM400000e8Q1a",
+    "IPIndustry__c": "Healthcare",
+    "IPPrice__c": "495.0",
+    "IPSLA__c": "Bronze"
+  },
+  "References": [
+    {
+      "Name": "IPProduct__r",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "SAAB74L000000e8t10"
+      }
+    }
+  ]
+}

@@ -1,9 +1,9 @@
 {
   "Object": "SBQQ__ProductRule__c",
   "Fields": {
-    "GearsetDisplayName": "Limit power options",
+    "GearsetDisplayName": "Limit power options - Renamed",
     "GearsetExternalId__c": "IAArN0o100000e8j0a",
-    "Name": "Limit power options",
+    "Name": "Limit power options - Renamed",
     "SBQQ__Active__c": "false",
     "SBQQ__AdvancedCondition__c": "",
     "SBQQ__ConditionsMet__c": "All",
