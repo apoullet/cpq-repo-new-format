@@ -1,9 +1,9 @@
 {
   "Object": "SBQQ__ProductRule__c",
   "Fields": {
-    "GearsetDisplayName": "No warranty extension for new customers",
+    "GearsetDisplayName": "No warranty extension for new customers - Renamed",
     "GearsetExternalId__c": "IAA8N0o100000e8j0a",
-    "Name": "No warranty extension for new customers",
+    "Name": "No warranty extension for new customers - Renamed",
     "SBQQ__Active__c": "true",
     "SBQQ__AdvancedCondition__c": "",
     "SBQQ__ConditionsMet__c": "All",
