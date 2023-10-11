@@ -1,9 +1,9 @@
 {
   "Object": "SBQQ__ProductRule__c",
   "Fields": {
-    "GearsetDisplayName": "Suggest USB Hub",
+    "GearsetDisplayName": "Suggest USB Hub - Renamed",
     "GearsetExternalId__c": "YAASN0o100000e8j0a",
-    "Name": "Suggest USB Hub",
+    "Name": "Suggest USB Hub - Renamed",
     "SBQQ__Active__c": "true",
     "SBQQ__AdvancedCondition__c": "",
     "SBQQ__ConditionsMet__c": "All",
