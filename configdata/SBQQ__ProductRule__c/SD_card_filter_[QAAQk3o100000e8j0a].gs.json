@@ -1,9 +1,9 @@
 {
   "Object": "SBQQ__ProductRule__c",
   "Fields": {
-    "GearsetDisplayName": "SD card filter",
+    "GearsetDisplayName": "SD card filter - Renamed",
     "GearsetExternalId__c": "QAAQk3o100000e8j0a",
-    "Name": "SD card filter",
+    "Name": "SD card filter - Renamed",
     "SBQQ__Active__c": "true",
     "SBQQ__AdvancedCondition__c": "",
     "SBQQ__ConditionsMet__c": "All",
