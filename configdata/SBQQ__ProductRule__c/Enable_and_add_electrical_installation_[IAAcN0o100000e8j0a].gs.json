@@ -1,9 +1,9 @@
 {
   "Object": "SBQQ__ProductRule__c",
   "Fields": {
-    "GearsetDisplayName": "Enable and add electrical installation - Renamed",
+    "GearsetDisplayName": "Enable and add electrical installation",
     "GearsetExternalId__c": "IAAcN0o100000e8j0a",
-    "Name": "Enable and add electrical installation - Renamed",
+    "Name": "Enable and add electrical installation",
     "SBQQ__Active__c": "true",
     "SBQQ__AdvancedCondition__c": "",
     "SBQQ__ConditionsMet__c": "All",
